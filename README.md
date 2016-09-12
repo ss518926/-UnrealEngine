@@ -1,4 +1,4 @@
-# 虚幻 4 学习笔记
+# 虚幻 4 笔记
 
  虚幻 4 官网 [UnrealEngine.com](https://www.UnrealEngine.com)
 
@@ -19,6 +19,9 @@
 - [**Lumion**](https://lumion3d.com/product.html) 实时的3D可视化工具，用来制作电影和静帧作品，涉及到的领域包括建筑、规划和设计。
 
 
-## 3.虚幻专业术语
+## 3.虚幻学习
 
-- **蓝图** 
+- [**官方文档**](https://docs.unrealengine.com/latest/CHN/GettingStarted/Terminology/index.html) 
+- [**虚幻中国**](http://www.unrealchina.com/portal.php)
+- [**中文视频**](http://i.youku.com/i/UMzE2NDk2OTIw)
+
